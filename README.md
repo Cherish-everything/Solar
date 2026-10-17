@@ -17,7 +17,7 @@ Made by Cherish
 ![PCB Screenshot](./assets/PCB.png)
 
 ### Parts
-![Parts](./assets/parts.png)
+![Parts](./assets/Parts.png)
 
 ---
 
