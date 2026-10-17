@@ -1,0 +1,12 @@
+Item,Part Name,Quantity,Designator/Notes,Link
+1,Seeed XIAO ESP32C3,1,Main Microcontroller,https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C3-3PCS-p-5920.html
+2,MX-Style Keyboard Switches,12,Keypad Inputs,https://mechanicalkeyboards.com/
+3,White Blank DSA Keycaps,12,Keycaps (1u),https://flashquark.com/product/dsa-blank-pbt-keycaps-white/
+4,Through-Hole 1N4148 Diodes,12,Matrix Anti-Ghosting Diodes,https://www.digikey.sg/en/products/detail/good-ark-semiconductor/1N4148/18649117
+5,2.25in TFT Screen,1,Main Display,https://www.adafruit.com/category/63
+6,3.3V Piezo Buzzer,1,Audio / Alarm Output,https://www.electrokit.com/en/piezohogtalare-aktiv
+7,2.54mm 8 Pin Male Header,1,Display Header Connection,https://www.digikey.sg/
+8,20cm Female-Female Jumper Wires,8,Off-PCB Screen Connection,https://www.adafruit.com/product/1954
+9,M3x5x4 Heatset Inserts,8,Enclosure Inserts,https://www.mcmaster.com/heat-set-inserts/
+10,M3x8mm Screws,4,Top / Bottom Case Screws,https://www.mcmaster.com/screws/
+11,M3x16mm Screws,4,Main Assembly Screws,https://www.mcmaster.com/screws/
